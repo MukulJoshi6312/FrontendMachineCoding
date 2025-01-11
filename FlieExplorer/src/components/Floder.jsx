@@ -15,7 +15,6 @@ const Floder = ({explorer,handleInsertNode,handleDeleteNode}) => {
             visible:true,
             isFolder,
         })
-        // console.log(showInput.visible)
     }
 
     const onAddFolder = (e)=>{
